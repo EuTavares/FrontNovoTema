@@ -774,7 +774,94 @@ h4 a.color_blue,
     color: #fdb94b;
 }
 
+.cursor-pointer {
+    cursor: pointer;
+}
 
 .menu-item {
-	cursor: pointer;
+    cursor: pointer;
+}
+
+.paginacao a {
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.paginacao a.current {
+    font-weight: bold;
+}
+
+#members-order-select label,
+#members-order-select select {
+    margin-right: 5px;
+}
+
+.project-form .sc_form_item {
+    margin-bottom: 2.5rem;
+}
+
+.project-form .sc_form_item textarea {
+    resize: vertical;
+}
+.project-form .sc_form_item textarea,
+.project-form .sc_form_item input {
+    border-color: #e9e9e9;
+}
+.project-form .sc_form_item.has_error textarea,
+.project-form .sc_form_item.has_error input {
+    border-color: #e66f5f;
+}
+
+.project-form .sc_form_item label {
+    font-weight: bold;
+}
+.project-form .sc_form_item.has_error label {
+    color: #e66f5f;
+}
+
+.last-save {
+    text-align: end;
+}
+.last-save i {
+    margin-right: 2px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.progress {
+    height: inherit !important;
+}
+
+.sc_form_item input[type="date"] {
+    font-size: 1em;
+    text-align: left;
+    width: 100%;
+    color: #8a8d90;
+    background-color: #f8f8f8;
+    border: 2px solid #e9e9e9;
+    border-radius: 5px;
+    padding: calc(1em - 2px) 1.428em;
+    line-height: 1.2857em;
+}
+
+
+.scheme_original input[type="date"]:focus,
+.scheme_original textarea:focus {
+    background-color: #f8f8f8;
+    border-color: #1ebeb4;
+    color: #8a8d90;
+    outline: none;
+}
+
+.finaces_entry .sc_form_item:first-child,
+.finaces_entry .sc_form_item:last-child {
+    width: 20%;
+    min-width: 200px;
+}
+
+
+.participants input {
+    max-width: 200px;
 }
