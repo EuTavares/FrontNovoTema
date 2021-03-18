@@ -264,6 +264,7 @@
 .icon-share:before { content: '\e8ce'; } /* '' */
 .icon-doc:before { content: '\e8cf'; } /* '' */
 .icon-doc-text:before { content: '\e8d0'; } /* '' */
+.icon-file:before { content: '\f0f6'; } /* '' */
 .icon-file-pdf:before { content: '\e8d1'; } /* '' */
 .icon-file-word:before { content: '\e8d2'; } /* '' */
 .icon-file-excel:before { content: '\e8d3'; } /* '' */
