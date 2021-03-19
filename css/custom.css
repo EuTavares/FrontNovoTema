@@ -846,7 +846,6 @@ h4 a.color_blue,
     line-height: 1.2857em;
 }
 
-
 .scheme_original input[type="date"]:focus,
 .scheme_original textarea:focus {
     background-color: #f8f8f8;
@@ -861,7 +860,53 @@ h4 a.color_blue,
     min-width: 200px;
 }
 
-
 .participants input {
     max-width: 200px;
+}
+
+.cronogram_table th:first-child,
+.finances_table th:first-child,
+.finances_table th:last-child {
+    min-width: 200px;
+}
+
+.cronogram_table th,
+.cronogram_table td,
+.finances_table th,
+.finances_table td {
+    padding: 0.5em;
+}
+
+.cronogram_table td,
+.finances_table td {
+    color: #2a3342;
+}
+
+
+.fs-xxs {
+    font-size: xx-small;
+}
+.fs-xs {
+    font-size: x-small;
+}
+.fs-smr {
+    font-size: smaller;
+}
+.fs-sm {
+    font-size: small;
+}
+.fs-md {
+    font-size: medium;
+}
+.fs-lg {
+    font-size: large;
+}
+.fs-lgr {
+    font-size: larger;
+}
+.fs-xl {
+    font-size: x-large;
+}
+.fs-xxl {
+    font-size: xx-large;
 }
