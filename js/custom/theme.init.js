@@ -387,7 +387,7 @@ function micro_office_theme_init_post_formats() {
         jQuery('button:not(.search_submit):not([class*="sc_button_hover_"]),\
 				.sc_button:not(.sc_button_style_border):not([class*="sc_button_hover_"]),\
 				.woocommerce .button:not([class*="sc_button_hover_"]),.woocommerce-page .button:not([class*="sc_button_hover_"]),\
-				#buddypress a.button:not([class*="sc_button_hover_"])').addClass('sc_button_hover_' + MICRO_OFFICE_STORAGE['button_hover']);
+				.buddypress a.button:not([class*="sc_button_hover_"])').addClass('sc_button_hover_' + MICRO_OFFICE_STORAGE['button_hover']);
         if (MICRO_OFFICE_STORAGE['button_hover'] != 'arrow')
             jQuery('input[type="submit"]:not([class*="sc_button_hover_"]),\
 					input[type="button"]:not([class*="sc_button_hover_"]),\

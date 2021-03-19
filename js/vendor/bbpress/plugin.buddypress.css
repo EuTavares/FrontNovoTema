@@ -4,116 +4,116 @@
 .bbp-breadcrumb {
     display: none;
 }
-#buddypress #item-body .activity {
+.buddypress #item-body .activity {
     margin-top: 1em;
 }
-#buddypress #item-body form#whats-new-form {
+.buddypress #item-body form#whats-new-form {
     margin-top: 2em;
 }
 .buddypress select,
-#buddypress select {
+.buddypress select {
     border: 1px solid #ddd;
     color: #666;
     font-weight: 300;
     width: auto;
 }
-#buddypress div#item-header img.avatar {
+.buddypress div#item-header img.avatar {
     margin-right: 2.1429em;
 }
-#buddypress div#item-header div#item-meta {
+.buddypress div#item-header div#item-meta {
     font-size: 1em;
     font-style: italic;
 }
-#buddypress #item-nav {
+.buddypress #item-nav {
     float: left;
     width: 150px;
     margin-right: 2.1429em;
 }
-#buddypress #item-nav ul li {
+.buddypress #item-nav ul li {
     float: none;
     display: block;
     margin: 0 0 4px;
 }
-#buddypress #item-nav ul li a {
+.buddypress #item-nav ul li a {
     display: block;
     text-align: center;
 }
-#buddypress #item-body {
+.buddypress #item-body {
     overflow: hidden;
 }
-#buddypress #subnav {
+.buddypress #subnav {
     margin-top: 0;
     display: inline-block;
 }
-#buddypress #members-directory-form div#subnav {
+.buddypress #members-directory-form div#subnav {
     background: none;
 }
-#buddypress #members-directory-form div.item-list-tabs {
+.buddypress #members-directory-form div.item-list-tabs {
     display: inline-block;
 }
-#buddypress div.item-list-tabs ul {
+.buddypress div.item-list-tabs ul {
     overflow: hidden;
 }
-#buddypress div#subnav.item-list-tabs {
+.buddypress div#subnav.item-list-tabs {
     margin: 0;
     vertical-align: top;
     overflow: hidden;
 }
-#buddypress div#subnav.item-list-tabs ul {
+.buddypress div#subnav.item-list-tabs ul {
     float: left;
 }
-#buddypress div#subnav.item-list-tabs form {
+.buddypress div#subnav.item-list-tabs form {
     display: inline-block;
 }
-#buddypress div#subnav.item-list-tabs .message-search {
+.buddypress div#subnav.item-list-tabs .message-search {
     margin-right: 0;
 }
-#buddypress .activity-list .activity-avatar {
+.buddypress .activity-list .activity-avatar {
     margin-top: 1em;
 }
-#buddypress .activity-list .mini .activity-avatar {
+.buddypress .activity-list .mini .activity-avatar {
     margin-top: 0.7em;
 }
-#buddypress div.activity-comments ul li {
+.buddypress div.activity-comments ul li {
     padding-top: 1.5em;
 }
-#buddypress .activity .activity-item {
+.buddypress .activity .activity-item {
     padding: 1em 2em 2em;
     margin-top: 1em;
     border-bottom: 1px solid;
 }
-#buddypress .activity-list li.mini {
+.buddypress .activity-list li.mini {
     font-size: 0.9em;
     font-style: italic;
 }
-#buddypress ul.item-list li div.item-title {
+.buddypress ul.item-list li div.item-title {
     font-size: 1.7857em;
     margin-bottom: 0.1em;
 	padding-right: 0;
     box-sizing: border-box;
 }
-#buddypress div.profile h4 {
+.buddypress div.profile h4 {
     font-weight: 400;
     margin-top: 0.3em;
     margin-bottom: 0.6em;
 }
-#buddypress div.profile .bp-avatar {
+.buddypress div.profile .bp-avatar {
     width: 99%;
 }
-#buddypress #settings-form #email {
+.buddypress #settings-form #email {
     min-width: 20em;
 }
-#buddypress form#whats-new-form textarea {
+.buddypress form#whats-new-form textarea {
     width: 100%;
 }
-#buddypress #whats-new-options {
+.buddypress #whats-new-options {
     overflow: hidden;
     height: auto;
 }
-#buddypress #reply-title small a span,
-#buddypress a.bp-primary-action span,
-#buddypress #reply-title small a:hover span, 
-#buddypress a.bp-primary-action:hover span {
+.buddypress #reply-title small a span,
+.buddypress a.bp-primary-action span,
+.buddypress #reply-title small a:hover span, 
+.buddypress a.bp-primary-action:hover span {
     font-size: 1em;
     display: inline-block;
     padding: 0;
@@ -123,38 +123,38 @@
     background-color: transparent;
     color: inherit;
 }
-#buddypress .notifications-options-nav {
+.buddypress .notifications-options-nav {
     margin-top: 2em;
 }
-#buddypress div.dir-search {
+.buddypress div.dir-search {
     float: none;
     margin-top: 0;
     margin-bottom: 2em;
     text-align: right;
 }
-#buddypress div.item-list-tabs {
+.buddypress div.item-list-tabs {
     display: inline-block;
 }
-#buddypress #item-nav div.item-list-tabs {
+.buddypress #item-nav div.item-list-tabs {
     display: block;
 }
-#buddypress ul#members-list li div.item-title > a,
-#buddypress ul.item-list li div.item-title > span {
+.buddypress ul#members-list li div.item-title > a,
+.buddypress ul.item-list li div.item-title > span {
     font-size: 0.6em;
 }
-#buddypress ul.item-list li div.item-title > span span {
+.buddypress ul.item-list li div.item-title > span span {
     font-size: 1em;
 }
-#buddypress div#subnav.item-list-tabs ul li.last:before {
+.buddypress div#subnav.item-list-tabs ul li.last:before {
     content: '|';
     margin-left: 1em;
     margin-right: 1em;
     display: inline-block;
 }
-#buddypress div#subnav.item-list-tabs ul li.last {
+.buddypress div#subnav.item-list-tabs ul li.last {
     margin-bottom: 5px;
 }
-#buddypress div#subnav.item-list-tabs .groups-members-search {
+.buddypress div#subnav.item-list-tabs .groups-members-search {
     margin-top: 5px;
 }
 /* BB Press Styles
@@ -208,35 +208,35 @@ div.bbp-template-notice.info {
 /* Headers */
 
 #bbpress h2,
-#buddypress h2 {
+.buddypress h2 {
     font-size: 1.7857em;
     font-weight: 700;
     margin: 0.85em 0;
 }
-#buddypress div.profile h2 {
+.buddypress div.profile h2 {
     margin: 0.85em 0;
 }
 #bbpress h3,
-#buddypress h3 {
+.buddypress h3 {
     font-size: 1.7857em;
     font-weight: 400;
 }
 /* Buttons */
 
 #bbpress-forums div.bbp-topic-content a,
-#buddypress button,
-#buddypress a.button,
-#buddypress input[type="submit"],
-#buddypress input[type="button"],
-#buddypress input[type="reset"],
-#buddypress ul.button-nav li a,
-#buddypress div.generic-button a,
-#buddypress .comment-reply-link,
-#buddypress div.activity-meta a,
-#buddypress div.item-list-tabs ul li.current a,
-#buddypress div.item-list-tabs ul li.selected a,
-#buddypress div.item-list-tabs ul li a,
-#buddypress div.item-list-tabs ul li span,
+.buddypress button,
+.buddypress a.button,
+.buddypress input[type="submit"],
+.buddypress input[type="button"],
+.buddypress input[type="reset"],
+.buddypress ul.button-nav li a,
+.buddypress div.generic-button a,
+.buddypress .comment-reply-link,
+.buddypress div.activity-meta a,
+.buddypress div.item-list-tabs ul li.current a,
+.buddypress div.item-list-tabs ul li.selected a,
+.buddypress div.item-list-tabs ul li a,
+.buddypress div.item-list-tabs ul li span,
 a.bp-title-button {
     overflow: hidden;
     position: relative;
@@ -253,20 +253,20 @@ a.bp-title-button {
     font-style: normal;
 }
 #bbpress-forums div.bbp-topic-content a:before,
-#buddypress button,
-#buddypress a.button:before,
-#buddypress input[type="submit"]:before,
-#buddypress input[type="button"]:before,
-#buddypress input[type="reset"]:before,
-#buddypress ul.button-nav li a:before,
-#buddypress div.generic-button a:before,
-#buddypress .comment-reply-link:before,
-#buddypress div.activity-meta a:before,
-#buddypress div.item-list-tabs ul li.current a:before,
-#buddypress div.item-list-tabs ul li.selected a:before,
-#buddypress div.item-list-tabs li:not(.selected) a:before,
-#buddypress div#subnav.item-list-tabs li:not(.selected) a:before,
-#buddypress #item-nav li:not(.selected) a:before,
+.buddypress button,
+.buddypress a.button:before,
+.buddypress input[type="submit"]:before,
+.buddypress input[type="button"]:before,
+.buddypress input[type="reset"]:before,
+.buddypress ul.button-nav li a:before,
+.buddypress div.generic-button a:before,
+.buddypress .comment-reply-link:before,
+.buddypress div.activity-meta a:before,
+.buddypress div.item-list-tabs ul li.current a:before,
+.buddypress div.item-list-tabs ul li.selected a:before,
+.buddypress div.item-list-tabs li:not(.selected) a:before,
+.buddypress div#subnav.item-list-tabs li:not(.selected) a:before,
+.buddypress #item-nav li:not(.selected) a:before,
 a.bp-title-button:before {
     content: '';
     position: absolute;
@@ -277,27 +277,27 @@ a.bp-title-button:before {
     margin-right: 0;
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.05) 100%);
 }
-#buddypress div.activity-meta a {
+.buddypress div.activity-meta a {
     font-size: 0.714em;
     padding: 1em 2.64em;
 }
-#buddypress div.item-list-tabs ul li.selected a {
+.buddypress div.item-list-tabs ul li.selected a {
     text-align: inherit;
 }
-#buddypress .acomment-options a {
+.buddypress .acomment-options a {
     padding: 0.3em 0.6em;
 }
 #bbpress-forums div.bbp-topic-content a:hover,
-#buddypress button:hover,
-#buddypress a.button:hover,
-#buddypress input[type="submit"]:hover,
-#buddypress input[type="button"]:hover,
-#buddypress input[type="reset"]:hover,
-#buddypress ul.button-nav li a:hover,
-#buddypress div.generic-button a:hover,
-#buddypress .comment-reply-link:hover,
+.buddypress button:hover,
+.buddypress a.button:hover,
+.buddypress input[type="submit"]:hover,
+.buddypress input[type="button"]:hover,
+.buddypress input[type="reset"]:hover,
+.buddypress ul.button-nav li a:hover,
+.buddypress div.generic-button a:hover,
+.buddypress .comment-reply-link:hover,
 a.bp-title-button:hover,
-#buddypress div.item-list-tabs ul li.selected a:hover {
+.buddypress div.item-list-tabs ul li.selected a:hover {
     border: none;
 }
 .bbpress img.avatar-14,
@@ -340,23 +340,23 @@ fieldset legend {
     top: -1em;
     z-index: 1;
 }
-#buddypress div#subnav.item-list-tabs ul li.last {
+.buddypress div#subnav.item-list-tabs ul li.last {
     margin: 0;
 }
 .item-list-tabs {
     font-size: 10px;
 }
-#buddypress div.item-list-tabs ul li + li {
+.buddypress div.item-list-tabs ul li + li {
     margin-left: 4px;
 }
-#buddypress ul.item-list,
-#buddypress ul.item-list li {
+.buddypress ul.item-list,
+.buddypress ul.item-list li {
     border: none;
 }
-#buddypress div.item-list-tabs ul li a {
+.buddypress div.item-list-tabs ul li a {
     padding: 1em 2em;
 }
-#buddypress div.item-list-tabs ul li a span {
+.buddypress div.item-list-tabs ul li a span {
     padding: 0;
     width: auto;
     height: auto;
@@ -368,8 +368,8 @@ fieldset legend {
     background: transparent;
     color: inherit;
 }
-#buddypress div.dir-search input[type=text],
-#buddypress li.groups-members-search input[type=text] {
+.buddypress div.dir-search input[type=text],
+.buddypress li.groups-members-search input[type=text] {
     line-height: 1.2857em;
     font-size: 1em;
     -webkit-appearance: none;
@@ -387,14 +387,14 @@ fieldset legend {
     -o-transition: all ease .3s;
     transition: all ease .3s;
 }
-#buddypress ul.item-list li div.item-title,
-#buddypress ul.item-list li h4 {
+.buddypress ul.item-list li div.item-title,
+.buddypress ul.item-list li h4 {
     width: 100%;
 }
-#buddypress div.dir-search {
+.buddypress div.dir-search {
     font-size: 10px;
 }
-#buddypress div#message p,
+.buddypress div#message p,
 #sitewide-notice p {
     margin: 1.5em 0;
 }
@@ -409,6 +409,6 @@ fieldset legend {
     font-size: 10px;
     padding: 5px 10px;
 }
-body.activity #buddypress .activity-list .activity-content .activity-inner, body.activity  #buddypress .activity-list .activity-content blockquote {
+body.activity .buddypress .activity-list .activity-content .activity-inner, body.activity  .buddypress .activity-list .activity-content blockquote {
     margin: 10px 0px 5px 0;
 }
